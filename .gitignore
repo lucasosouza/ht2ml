@@ -1,2 +1,3 @@
-.ipynb_checkpoints/
-exploration*
+*/.ipynb_checkpoints/
+*/exploration*
+*/__pycache__/
